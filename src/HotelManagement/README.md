@@ -27,6 +27,5 @@ HotelManagementSystem/
 3. Run Main.java
 
 ## 📸 UI Preview
-(Add screenshot of your application here)
 ![img.png](img.png)
 
